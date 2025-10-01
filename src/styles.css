@@ -1,0 +1,16 @@
+/* src/styles.css */
+body {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  background: #fafafa;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  max-width: 900px;
+  margin: 24px auto;
+  padding: 16px;
+}
+.header {
+  margin-bottom: 16px;
+}
