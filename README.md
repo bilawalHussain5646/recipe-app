@@ -1,38 +1,29 @@
-# recipe-app
+# Recipe Sharing App
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple web application to share and explore recipes. Built with **Vue 3**, **Vite**, and **Firebase**.
 
-## Recommended IDE Setup
+## Features
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Browse recipes
+- Add new recipes
+- Edit and delete recipes
+- Responsive UI for desktop and mobile
+- Real-time data storage using Firebase Firestore
 
-## Recommended Browser Setup
+## Live Demo
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+Check the app online: [Recipe Sharing App](https://bilawalhussain5646.github.io/recipe-app/)
 
-## Customize configuration
+## Technologies Used
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- **Frontend:** Vue 3, Vite, Materialize CSS
+- **Backend / Database:** Firebase Firestore
+- **Deployment:** GitHub Pages
 
 ## Project Setup
 
-```sh
+### Install dependencies
+
+```bash
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
